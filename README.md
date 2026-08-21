@@ -79,7 +79,7 @@ Minha base analítica foi moldada por uma sólida formação técnica em TI e po
   <img src="https://img.shields.io/badge/App_de_Desenho_(UFS)-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://github.com/ViniAndradeSan/Heart-Disease.git">
-  <img src="https://img.shields.io/badge/App_de_Desenho_(UFS)-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heart-Disease-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
